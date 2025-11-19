@@ -36,6 +36,7 @@ const playersData = [
   { id: 28, name: "Raheem Sterling", age: 29, position: "Forward", nationality: "England", league: "Premier League", image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Raheem_Sterling_2020.jpg" },
   { id: 29, name: "Mason Mount", age: 24, position: "Midfielder", nationality: "England", league: "Premier League", image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Mason_Mount_2021.jpg" },
   { id: 30, name: "Thiago Silva", age: 39, position: "Defender", nationality: "Brazil", league: "Premier League", image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Thiago_Silva_2021.jpg" }
+  { id: 31, name: "Neymar", age:34, position: "forward", nationality:"Brazil", league:"laliga",image:"https://th.bing.com/th/id/OIP.rRUeAFiVvSeD6nqCMq1siQHaE8?w=256&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"}
 ];
 
 
