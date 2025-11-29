@@ -38,6 +38,7 @@ const playersData = [
   { id: 30, name: "Thiago Silva", age: 39, position: "Defender", nationality: "Brazil", league: "Premier League", image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Thiago_Silva_2021.jpg" }
   { id: 31, name: "Neymar", age:34, position: "forward", nationality:"Brazil", league:"laliga",image:"https://th.bing.com/th/id/OIP.rRUeAFiVvSeD6nqCMq1siQHaE8?w=256&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"}
 ];
+#
 
 
 export default playersData;
